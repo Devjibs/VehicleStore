@@ -1,3 +1,3 @@
 
 
-web gunicorn googleclone.wsgi:application --log-file -
+web gunicorn vehiclestore.wsgi:application --log-file -
