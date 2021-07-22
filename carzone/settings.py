@@ -108,6 +108,11 @@ WSGI_APPLICATION = 'carzone.wsgi.application'
 #     }
 # }
 
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> dd2f1a674d9be1d8b9d4a72830041426ab0a8bc7
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
